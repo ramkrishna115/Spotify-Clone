@@ -1,0 +1,1 @@
+Spotify Clone is a web application developed using HTML and CSS.
